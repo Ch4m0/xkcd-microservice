@@ -6,12 +6,12 @@
 
 ## Latest comic
 ```
-https://xkcd.now.sh
+https://xkcd-microservice-hppr9mjy9.now.sh
 ```
 
 ## Comic #1000
 ```
-https://xkcd.now.sh/1000
+https://xkcd-microservice-hppr9mjy9.now.sh/614
 ```
 
 ## Example response (comic #1892)
