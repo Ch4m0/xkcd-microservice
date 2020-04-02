@@ -1,0 +1,7 @@
+{
+  "name": "xkcd",
+  "alias": "xkcd.now.sh",
+  "env": {
+    "NODE_ENV": "production"
+  }
+}
