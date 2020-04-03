@@ -9,7 +9,7 @@
 https://xkcd-microservice-hppr9mjy9.now.sh
 ```
 
-## Comic #1000
+## Comic #614
 ```
 https://xkcd-microservice-hppr9mjy9.now.sh/614
 ```
