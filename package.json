@@ -13,7 +13,7 @@
     "xkcd",
     "api"
   ],
-  "author": "Zander Martineau",
+  "author": "Abner Chamorro",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.16.2",
