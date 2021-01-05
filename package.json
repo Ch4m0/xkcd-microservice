@@ -16,7 +16,7 @@
   "author": "Abner Chamorro",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "micro": "^9.0.0",
     "micro-cors": "^0.1.0"
   },
